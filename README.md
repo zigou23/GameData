@@ -1,0 +1,2 @@
+# GameData
+Store game data
